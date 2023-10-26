@@ -1,0 +1,15 @@
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.csproj.AssemblyReference.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.AssemblyInfoInputs.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.AssemblyInfo.cs
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.csproj.CoreCompileInputs.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\bin\Debug\net6.0\CollectingPractice.exe
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\bin\Debug\net6.0\CollectingPractice.deps.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\bin\Debug\net6.0\CollectingPractice.runtimeconfig.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\bin\Debug\net6.0\CollectingPractice.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\bin\Debug\net6.0\CollectingPractice.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\refint\CollectingPractice.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\CollectingPractice.genruntimeconfig.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\CollectingPractice\obj\Debug\net6.0\ref\CollectingPractice.dll
