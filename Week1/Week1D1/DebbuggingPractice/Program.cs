@@ -31,7 +31,7 @@ for (int num=0 ; num< evenMoreNumbers.Count; num++)
 }
 // Challenge 5
 // What can we learn from this error message?
-// string MyString = "superduberawesome";
+string MyString = "superduberawesome";
 // MyString[7] = "p";
 
 // Challenge 6
