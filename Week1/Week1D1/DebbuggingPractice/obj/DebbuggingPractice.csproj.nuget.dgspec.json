@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj": {}
+    "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\DebbuggingPractice\\DebbuggingPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj": {
+    "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\DebbuggingPractice\\DebbuggingPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj",
-        "projectName": "HelloDotNetCore",
-        "projectPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj",
+        "projectUniqueName": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\DebbuggingPractice\\DebbuggingPractice.csproj",
+        "projectName": "DebbuggingPractice",
+        "projectPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\DebbuggingPractice\\DebbuggingPractice.csproj",
         "packagesPath": "C:\\Users\\souay\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\obj\\",
+        "outputPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\DebbuggingPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\souay\\AppData\\Roaming\\NuGet\\NuGet.Config"

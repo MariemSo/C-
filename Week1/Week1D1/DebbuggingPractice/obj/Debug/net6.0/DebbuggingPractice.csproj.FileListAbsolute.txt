@@ -1,0 +1,15 @@
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\bin\Debug\net6.0\DebbuggingPractice.exe
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\bin\Debug\net6.0\DebbuggingPractice.deps.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\bin\Debug\net6.0\DebbuggingPractice.runtimeconfig.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\bin\Debug\net6.0\DebbuggingPractice.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\bin\Debug\net6.0\DebbuggingPractice.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.csproj.AssemblyReference.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.AssemblyInfoInputs.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.AssemblyInfo.cs
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.csproj.CoreCompileInputs.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\refint\DebbuggingPractice.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\DebbuggingPractice.genruntimeconfig.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\DebbuggingPractice\obj\Debug\net6.0\ref\DebbuggingPractice.dll
