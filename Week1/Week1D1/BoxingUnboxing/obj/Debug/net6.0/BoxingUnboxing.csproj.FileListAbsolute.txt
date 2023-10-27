@@ -1,0 +1,15 @@
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.exe
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.deps.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.runtimeconfig.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\bin\Debug\net6.0\BoxingUnboxing.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.AssemblyReference.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfoInputs.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.AssemblyInfo.cs
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\refint\BoxingUnboxing.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\BoxingUnboxing.genruntimeconfig.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D1\BoxingUnboxing\obj\Debug\net6.0\ref\BoxingUnboxing.dll
