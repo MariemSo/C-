@@ -4,7 +4,7 @@
 static void PrintNumbers()
 {
     int i = 1;
-    while (i < 255)
+    while (i <= 255)
     {
         Console.WriteLine(i);
         i+=1;
