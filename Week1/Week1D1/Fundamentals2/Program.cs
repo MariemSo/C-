@@ -61,8 +61,8 @@ static void LoopArray(int[] numbers)
         Console.WriteLine(item);
      }
 };  
-int[] numbers={1,2,6,5} ;   
-LoopArray(numbers);
+int[] nums={1,2,6,5} ;   
+LoopArray(nums);
 
 //? 5. Find Max
 
