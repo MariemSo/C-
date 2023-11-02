@@ -31,7 +31,7 @@ class Human
     {
         target.Health -= 3*Strength ;
          Console.WriteLine($"{Name} attacked {target.Name} and {target.Name} health is now {target.Health} ");
-        return Health;
+        return target.Health;
     }
 }
 
