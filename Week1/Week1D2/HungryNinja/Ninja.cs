@@ -4,7 +4,7 @@ class Ninja
     public List<Food> FoodHistory;
      
     // add a constructor
-    public void ninja()
+    public Ninja()
     {
         calorieIntake = 0;
         FoodHistory = new List<Food>();
@@ -21,8 +21,22 @@ class Ninja
     {
         if (IsFull == false)
         {
-            calorieIntake += item.Calories
+            calorieIntake += item.Calories;
+            FoodHistory.Add(item);
+            if (item.IsSpicy)
+            {
+                System.Console.WriteLine("The food is spicy" );
+            }
+            if ( item.IsSweet)
+            {
+                System.Console.WriteLine("the food is sweet");
+            }
         }
+        else 
+        {
+            System.Console.WriteLine("Enough You are Full");
+        }
+
     }
 }
 

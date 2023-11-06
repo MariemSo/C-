@@ -21,7 +21,7 @@ class Buffet
     public Food Serve()
     {
         Random rand = new Random();
-        Food plate = Menu[rand.next(0,6)];
+        Food plate = Menu[rand.Next(0,6)];
         return plate;
     }
 }

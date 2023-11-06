@@ -3,3 +3,13 @@ C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\Hun
 C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\HungryNinja.AssemblyInfoInputs.cache
 C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\HungryNinja.AssemblyInfo.cs
 C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\HungryNinja.csproj.CoreCompileInputs.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\bin\Debug\net6.0\HungryNinja.exe
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\bin\Debug\net6.0\HungryNinja.deps.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\bin\Debug\net6.0\HungryNinja.runtimeconfig.json
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\bin\Debug\net6.0\HungryNinja.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\bin\Debug\net6.0\HungryNinja.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\HungryNinja.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\refint\HungryNinja.dll
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\HungryNinja.pdb
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\HungryNinja.genruntimeconfig.cache
+C:\Users\souay\OneDrive\Bureau\C#\Week1\Week1D2\HungryNinja\obj\Debug\net6.0\ref\HungryNinja.dll
