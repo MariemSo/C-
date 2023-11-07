@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Here are Some Delicious Foods! 🍝🥘🍣</h1>
+@{
+    string[] FoodList =
+    {
+        "Apple Pie 🥧",
+        "Pizza 🍕",
+        "Cinnamon Rolls🥐",
+        "Lasagne 🍝",
+        "Donuts 🍩",
+        "Chocolate Cake🍫",
+        "Burritos🌯",
+    };
+        
+    foreach(string food in FoodList)
+    {
+        <div>
+             @if(food.StartsWith("C"))
+            {
+
+                 <p style= "color:red;">@food </p>
+            }
+            else
+            {
+                <p>@food</p>
+            }
+       </div>
+    }
+}
+</body>
+</html>

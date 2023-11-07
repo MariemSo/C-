@@ -2,14 +2,14 @@ using Microsoft.AspNetCore.Mvc;
 //must take the same name than the project(folder)
 namespace FirstWebApp.controllers;
 //must take the same name than the controller file
-public class HelloController: Controller
+public class PortfolioController: Controller
 {
     //Routes
     [HttpGet] //type of the request
     [Route("")]//associated route (/)
-    public string Index()
-    {
-        return "Hello from The Index";
+    public ViewResult Index()
+    {   
+        return View("Index");
     }
 
     [HttpGet("projects")] 
@@ -23,7 +23,5 @@ public class HelloController: Controller
     {
         return "This is my Contact!";
     }
-
-
 
 }

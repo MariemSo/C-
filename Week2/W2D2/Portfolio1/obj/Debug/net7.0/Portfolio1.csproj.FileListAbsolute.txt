@@ -23,3 +23,5 @@ C:\Users\souay\OneDrive\Bureau\C# With Wael\Week2\W2D2\Portfolio1\obj\Debug\net7
 C:\Users\souay\OneDrive\Bureau\C# With Wael\Week2\W2D2\Portfolio1\obj\Debug\net7.0\Portfolio1.pdb
 C:\Users\souay\OneDrive\Bureau\C# With Wael\Week2\W2D2\Portfolio1\obj\Debug\net7.0\Portfolio1.genruntimeconfig.cache
 C:\Users\souay\OneDrive\Bureau\C# With Wael\Week2\W2D2\Portfolio1\obj\Debug\net7.0\ref\Portfolio1.dll
+C:\Users\souay\OneDrive\Bureau\C# With Wael\Week2\W2D2\Portfolio1\obj\Debug\net7.0\Portfolio1.RazorAssemblyInfo.cache
+C:\Users\souay\OneDrive\Bureau\C# With Wael\Week2\W2D2\Portfolio1\obj\Debug\net7.0\Portfolio1.RazorAssemblyInfo.cs
