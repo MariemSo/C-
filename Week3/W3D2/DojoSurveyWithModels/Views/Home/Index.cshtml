@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+@Model Survey
+<body>
+    <form action="/survey" method="post"> 
+    @* action represent the route that will be taken  *@
+
+        <label for="Name">Your Name:</label>
+        <input type="text" name="Name" >
+
+        <label for="Location">Dojo Location :</label>
+        <select name="Location" >
+            <option value="San Jose ">San Jose</option>
+            <option value="Africa ">Africa</option>
+            <option value="France ">France</option>
+        </select>
+
+        <label for="FavLanguage">Favorite Language :</label>
+        <select name="FavLanguage" >
+            <option value="C# ">C#</option>
+            <option value="Java ">Java</option>
+            <option value="MERN ">MERN</option>
+        </select>
+
+        <label for="Comment">Comment (Optional): </label>
+        <input type="text" name="Comment" row = "2">
+
+        <button type="submit">Submit </button>
+
+    </form>
+</body>
+</html>
