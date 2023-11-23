@@ -17,7 +17,7 @@ public class HomeController : Controller
         return View();
     }
 
-    [HttpPost("process")]
+    [HttpPost("process")]//Url path 
     public IActionResult Create(User newUser)
     {
         if (ModelState.IsValid)
