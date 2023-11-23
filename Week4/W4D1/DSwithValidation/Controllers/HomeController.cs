@@ -24,15 +24,15 @@ public class HomeController : Controller
         if (ModelState.IsValid)
         {
             System.Console.WriteLine($"{newSurvey.Name}");
-            return View("Result", newSurvey);
+            return RedirectToAction("Result",newSurvey);
         }
         return View("Index");
     }
 
     [HttpGet("result")]
-    public IActionResult Result()
+    public IActionResult Result(Survey newSurvey)
     {
-        return View();
+        return View(newSurvey);
     }
     public IActionResult Privacy()
     {

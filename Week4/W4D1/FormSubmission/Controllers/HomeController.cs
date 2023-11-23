@@ -23,16 +23,16 @@ public class HomeController : Controller
         if (ModelState.IsValid)
         {
             System.Console.WriteLine($"{newUser.FirstName}\n{newUser.LastName}\n{newUser.Age}\n{newUser.Email}\n{newUser.Password}");
-            return RedirectToAction("Success");
+            return RedirectToAction("Success",newUser);
         }
         return View("Index");
     }
 
     [HttpGet("success")]
-    public IActionResult Success()
+    public IActionResult Success(User newUser)
     {
 
-        return View();
+        return View(newUser);
     }
 
 
