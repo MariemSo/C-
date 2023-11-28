@@ -66,17 +66,19 @@ public class HomeController : Controller
     public IActionResult UpdateDish(int DishId, Dishes newestDish)
     {
         Dishes oldDish = _context.Dishes.FirstOrDefault(b => b.DishId == DishId);
+    if (ModelState.IsValid)
+        {
+            oldDish.Name = newestDish.Name;
+            oldDish.Chef = newestDish.Chef;
+            oldDish.Tastiness = newestDish.Tastiness;
+            oldDish.Calories = newestDish.Calories;
+            oldDish.Description = newestDish.Description;
+            oldDish.UpdatedAt = newestDish.UpdatedAt;
+            _context.SaveChanges();
 
-        oldDish.Name = newestDish.Name;
-        oldDish.Chef = newestDish.Chef;
-        oldDish.Tastiness = newestDish.Tastiness;
-        oldDish.Calories = newestDish.Calories;
-        oldDish.Description = newestDish.Description;
-        oldDish.UpdatedAt = newestDish.UpdatedAt;
-        _context.SaveChanges();
-
-        return RedirectToAction("Show",newestDish);
-
+            return RedirectToAction("Index");
+        }
+        return View("Edit", oldDish);
 
     }
 
@@ -84,7 +86,7 @@ public class HomeController : Controller
     [HttpGet("delete/{DishId}")]
     public IActionResult DeleteDish(int DishId)
     {
-            Dishes toDelete = _context.Dishes.FirstOrDefault(d => d.DishId == DishId);
+            Dishes toDelete = _context.Dishes.FirstOrDefault(d => d.DishId == DishId);
             if(toDelete == null)
                 return RedirectToAction("Index");
             _context.Dishes.Remove(toDelete);

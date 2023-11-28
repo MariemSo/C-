@@ -8,7 +8,7 @@
         </div>
     </div>
     <div class="mb">
-        <form action="/dishes/update/{DishId}" method="post">
+        <form asp-action="UpdateDish" asp-route-DishId=@Model.DishId>
             <div class="form-group">
                 <label asp-for="Chef">Chef's Name</label>
                 <span asp-validation-for="Chef" class="text-danger"></span>
@@ -34,7 +34,7 @@
                 <span asp-validation-for="Description" class="text-danger"></span>
                 <input asp-for="Description" class="form-control">
             </div>
-            <button> Edit Dish</button>
+            <input type="submit" value="Edit" class="btn btn-success">
         </form>
     </div>
 </div>
