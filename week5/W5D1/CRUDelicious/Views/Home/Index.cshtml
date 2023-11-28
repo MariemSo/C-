@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model IEnumerable<Dishes>
+<div >
+    <div  >
+        <h1 class="d-flex justify-content-center">Welcome to CRUDelicious</h1>
+        <div class="d-flex justify-content-center">
+            <p>Home</p>  |  <a href="/dishes/new"><p>Add a Dish</p></a> 
+        </div>
+    </div>
+
+    
+    <h5>Check out some recent Dishes</h5>
+    
+    @if (Model != null)
+    {
+        foreach (var d in Model)
+        {
+            
+            <p><a href="/dishes/@d.DishId">@d.Name<a> by @d.Chef</p>
+
+        }
+    }
+    else
+    {
+        <p>No Dishes available.</p>
+    }
+
+</div>
