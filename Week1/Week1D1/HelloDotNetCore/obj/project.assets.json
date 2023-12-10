@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\souay\\OneDrive\\Bureau\\C# With Wael\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj",
       "projectName": "HelloDotNetCore",
-      "projectPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj",
+      "projectPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C# With Wael\\Week1\\Week1D1\\HelloDotNetCore\\HelloDotNetCore.csproj",
       "packagesPath": "C:\\Users\\souay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C#\\Week1\\Week1D1\\HelloDotNetCore\\obj\\",
+      "outputPath": "C:\\Users\\souay\\OneDrive\\Bureau\\C# With Wael\\Week1\\Week1D1\\HelloDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\souay\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.417\\RuntimeIdentifierGraph.json"
       }
     }
   }
