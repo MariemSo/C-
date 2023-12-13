@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Chef>
+<div class="text-center">
+    <h1 class="display-4">Check Out our Roster of Chefs!</h1>
+<table class="table">
+  <thead class="table-light">
+    <th>Name</th>
+    <th>Age</th>
+    <th># of Dishes</th>
+  </thead>
+  <tbody>
+    @foreach (var chef in Model)
+    {
+      <tr>
+        <td>@chef.FirstName @chef.LastName</td>
+        <td>@chef.Age</td>
+        <td>@(chef.DishesBy?.Count ?? 0)</td>
+      </tr>
+    }
+  </tbody>
+</table>
+</div>
