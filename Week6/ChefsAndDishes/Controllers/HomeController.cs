@@ -53,10 +53,11 @@ public class HomeController : Controller
         {
             // Date of Birth is in the future, add a ModelState error
             ModelState.AddModelError("DateOfBirth", "Date of Birth must be in the past.");
+            ViewBag.Chefs = _context.Chefs.ToList();
             return View("AddChef");
         }
         }
-        return View ("Index");
+        return View ("AddChef");
     }
     //*-------------Dishes---------------
      public IActionResult AddDish()
