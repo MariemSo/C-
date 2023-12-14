@@ -74,6 +74,7 @@ public class HomeController : Controller
             _context.SaveChanges();
         return RedirectToAction("Dishes");
         }
+        ViewBag.Chefs = _context.Chefs.ToList();
         return View("AddDish");
     }
 
