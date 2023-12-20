@@ -1,0 +1,38 @@
+@{
+    ViewData["Title"] = "Home Page";
+    int userId=(int)Context.Session.GetInt32("userId");
+}
+
+@model List<Wedding>
+@await Html.PartialAsync("_NavBar")
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Wedding Of</th>
+      <th scope="col">Date</th>
+      <th scope="col">Guest Count</th>
+      <th scope="col">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    @foreach (Wedding w in Model){<tr>
+        
+            <td><a href="/weddings/@w.WeddingId">@w.WedderOne & @w.WedderTwo</a></td>
+            <td>@w.WeddingDate</td>
+            <td>@w.Guests.Count</td>
+            <td>
+                 @if( w.UserId == userId)
+                    {
+                        <form asp-action="DeleteWedding" asp-controller="Home" asp-route-weddingId="@w.WeddingId" method="post">
+                            <button class="btn btn-light btn-sm">❌</button>
+                        </form>  } 
+                else
+                {
+                 }
+            </td>
+      
+      
+
+    </tr>}
+    </tbody>
+</table>

@@ -1,0 +1,39 @@
+@{
+    int UserId=(int)Context.Session.GetInt32("userId");
+}
+@model Wedding
+@await Html.PartialAsync("_NavBar")
+<div class="container mt-5">
+    <div class="card shadow">
+        <h3 class="card-header">Plan a Wedding</h3>
+        <div class="card-body">
+            <form asp-action="CreateWedding" asp-controller="Home" method="post">
+                <input type="hidden" asp-for="UserId" value="@UserId">
+                
+                    <div >
+                        <label asp-for="WedderOne" class="form-label"></label>
+                        <input asp-for="WedderOne" class="form-control">
+                        <span asp-validation-for="WedderOne" class="text-danger "></span>
+                    </div>
+                    <div >
+                        <label asp-for="WedderTwo" class="form-label"></label>
+                        <input asp-for="WedderTwo" class="form-control">
+                        <span asp-validation-for="WedderTwo" class="text-danger "></span>
+                    </div>
+                    <div >
+                        <label asp-for="WeddingDate" class="form-label"></label>
+                        <input asp-for="WeddingDate" class="form-control">
+                        <span asp-validation-for="WeddingDate" class="text-danger "></span>
+                    </div>
+                    <div >
+                        <label asp-for="Address" class="form-label"></label>
+                        <input asp-for="Address" class="form-control">
+                        <span asp-validation-for="Address" class="text-danger "></span>
+                    </div>
+                    <div>
+                        <input type="submit" value="Create" class="btn btn-dark btn-lg w-25">
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>

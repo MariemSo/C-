@@ -1,0 +1,11 @@
+@await Html.PartialAsync("_NavBar")
+@model Wedding
+<h1>@Model.WedderOne & @Model.WedderTwo's Wedding</h1><br>
+<h3>Date: @Model.WeddingDate</h3><br>
+<p>Guests</p><br>
+@foreach(Guest g in Model.Guests)
+{
+    <ul>
+        <li>@g.Attendee</li>
+    </ul>
+}
